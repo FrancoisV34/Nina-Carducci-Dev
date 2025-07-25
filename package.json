@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "logrocket": "^10.1.0"
-  },
-  "devDependencies": {
-    "purgecss": "^7.0.2"
-  }
-}
