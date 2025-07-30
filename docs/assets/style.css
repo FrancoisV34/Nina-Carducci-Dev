@@ -90,6 +90,9 @@ body {
 	margin-top: 1em;
 	margin-bottom: 60px;
 	font-size: 30px;
+	font-weight: 500;
+	line-height: 36px;
+	;
 }
 
 .about-me__introduction {
@@ -177,7 +180,9 @@ body {
 	font-family: Spectral;
 	font-style: italic;
 	font-weight: 300;
-	font-size: 40px;
+	font-size: 2.5rem;
+	margin: 0 0 8px;
+	line-height: 48px;
 }
 
 .quote__author {
